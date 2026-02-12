@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/atlasle/static/css/main.70e9341c.css",
+    "main.js": "/atlasle/static/js/main.4d5bc526.js",
+    "index.html": "/atlasle/index.html",
+    "main.70e9341c.css.map": "/atlasle/static/css/main.70e9341c.css.map",
+    "main.4d5bc526.js.map": "/atlasle/static/js/main.4d5bc526.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70e9341c.css",
+    "static/js/main.4d5bc526.js"
+  ]
+}
