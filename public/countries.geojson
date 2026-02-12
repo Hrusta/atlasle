@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "ADMIN": "Testland" },
+      "geometry": {
+        "type": "Test",
+        "coordinates": [
+          [
+            [0, 0],
+            [10, 0],
+            [10, 10],
+            [0, 10],
+            [0, 0]
+          ]
+        ]
+      }
+    }
+  ]
+}
